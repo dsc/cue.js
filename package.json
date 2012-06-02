@@ -1,0 +1,30 @@
+{
+  "name": "cue",
+  "version": "0.1.0",
+  "description": "A sensible async flow-control library.",
+  "homepage": "https://github.com/dsc/cue",
+  "keywords": [
+    "util",
+    "server",
+    "client",
+    "browser",
+    "async",
+    "flow",
+    "control"
+  ],
+  "author": "David Schoonover <dsc@less.ly> (http://less.ly)",
+  "devDependencies": {
+    "coco": ">= 0.7.0",
+    "buildtools": "https://github.com/dsc/node-buildtools/tarball/master",
+    "uglify-js": ">= 1.2.6",
+    "underscore": ">= 1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://less.ly/kraken-ui.git"
+  },
+  "engine": {
+    "node": ">=0.6.2"
+  },
+  "license": "MIT"
+}
